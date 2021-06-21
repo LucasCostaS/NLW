@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.0.2",
+    "typeform": "^1.0.1",
+    "typeorm": "^0.2.34"
+  }
+}
